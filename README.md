@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/samapara/Udacity-Project-4.svg?style=svg)](https://app.circleci.com/pipelines/github/samapara/Udacity-Project-4)
+
 
 ## Project Overview
 
